@@ -1,5 +1,3 @@
-package base
-
 import org.scalatest.{WordSpec, Matchers}
 
 class TemplateAppSpec extends WordSpec with Matchers {
